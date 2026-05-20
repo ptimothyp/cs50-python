@@ -1,2 +1,14 @@
 # cs50-python
-CS50
+Working through the cs50 library
+
+
+# UV
+Using UV for package management in Linux
+
+
+# Install using pip in MAC
+
+code```
+pip3 install pillow
+```
+

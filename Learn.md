@@ -1,0 +1,6 @@
+# Types
+str 
+int
+float
+
+
